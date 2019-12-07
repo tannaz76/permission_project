@@ -1,5 +1,4 @@
-# permission_project
-This app is a shop app including your request of admin permission. It has 4 apps shop (main app) , accounts (authenticatations) , 
-cart (shopping cart app) , order (an app for customers orders).
-The hole language of web is English since it is based on linux (ubuntu 19.04) and the linux does not have persion keyboard.
-Please first activate a virtualenv and then install requirements.txt by pip install requirements.txt 
+# sell-your-stuff.com
+This is an online shop in which you can buy and sell your stuffs.
+In this web site every action will be saved to data base(data base is sqlite3).
+For running it , plz clone it then go to project path and run the command "pip install -r requirements.txt".
